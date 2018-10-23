@@ -1,4 +1,4 @@
-# bmv - Backwards Move
+# backwards move
 
 `bmv` is used to quickly and painlessly reverse the effects of a `mv` command.
 Basic usage is simple:
